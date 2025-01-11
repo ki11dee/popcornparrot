@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="main-wrapper">
+    <header>
+      <div class="container">
+        <a href="{{ '/' | relative_url }}" class="ascii-link"></a>
+          <pre class="ascii-art">
+ ██████  ███████ ████████ 
+██    ██ ██         ██    
+██    ██ █████      ██    
+██ ▄▄ ██ ██         ██    
+ ██████  ██         ██    
+    ▀▀                    
+          </pre>
+        </a>
+        <nav>
+          <a href="/index">소개</a> | <a href="/List/BP/bp.html">bp</a> | <a href="/List/Doodles/doodles.html">낙서</a> | <a href="/List/Pic/pic.html">사진</a> | <a href="/List/SM/sm.html">비밀의 공간</a> | <a href="https://ki11dee.github.io/">나</a>
+        </nav>
+      </div>
+    </header>
+    
+    <main>
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
+  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const links = document.querySelectorAll('a[href]');
+      links.forEach(link => {
+        if (link.hostname !== window.location.hostname) {
+          link.setAttribute('target', '_blank');
+        }
+      });
+    });
+  </script>  
+</body>
+</html>
