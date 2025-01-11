@@ -9,5 +9,5 @@ layout: page
 ![b4](./beaut4.png)
 
 <div class="pagination">
-  <a href="/List/list.html" class="prev-button">목록</a>
+  <a href="{{ '/List/list.html' | relative_url }}" class="prev-button">목록</a>
 </div>
