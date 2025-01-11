@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-
+# BP
 - [죽음과 선 1]({{ '/List/BP/DG1/dg1.html' | relative_url }})
 - [죽음과 선 2]
 - [DOGMAIAMGOD]({{ '/List/BP/DOGM/dogma.html' | relative_url }})
