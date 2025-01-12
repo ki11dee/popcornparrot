@@ -27,7 +27,7 @@ layout: post
 - [골콩드](./bigp/golconda.html)
 
 ### 2022
-- [큰 그림](./bigp/bigp.html)
+- [거대한 그림](./bigp/bigp.html)
 
 ---
 
