@@ -24,6 +24,7 @@ layout: post
 ### 2023
 - [앨런 튜링](./2023/turing/turing.html)
 - [자살하는 기계](./2023/mac/mac.html)
+- [불운의 학자들](./2023/suicide/suicide.html)
 
 ### 2022
 - [어느 날의 꿈](./2022/dream/dream.html)
