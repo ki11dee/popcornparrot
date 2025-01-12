@@ -1,24 +1,11 @@
-.ascii-art {
-  font-family: monospace;
-  font-size: 16px;
-  white-space: pre;
-  color: #000000;
-  line-height: 1.5;
+.header-image {
   text-align: center;
-}
-
-.ascii-link {
-  text-decoration: none;
-  display: inline-block;
-}
-
-.ascii-link:hover {
-  color: #555555;
+  margin-top: 20px;
 }
 
 a {
   color: #03c003;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover {
@@ -48,13 +35,14 @@ nav a:hover {
 
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Pretendard', 'Ariel', monospace;
   background-color: #2a7f64;
-  color: #000000;
+  color: #bdbdbd;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  text-align: justify;
 }
   
 ::selection {
@@ -69,52 +57,27 @@ body {
 .container {
   max-width: 600px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 30px;
   padding-bottom: 20px;
-  margin-bottom: 20px;
 }
 
 main .container {
-  border: 3px solid #000000;
+  border: 1px solid #ffffff;
   border-radius: 3px;
-  padding: 20px;
-  padding-bottom: 20px;
   margin-bottom: 20px;
-  background-color: #ffffff;
+  background-color: #000000;
   }
 
 .post-container {
-  max-width: 400px;
+  max-width: 350px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 30px;
   padding-bottom: 20px;
-  margin-bottom: 20px;
 }
 
 main .post-container {
-  border: 3px solid #000000;
-  border-radius: 3px;
-  padding: 20px;
-  padding-bottom: 20px;
-  margin-bottom: 20px;
-  background-color: #ffffff;
-}
-
-.secret-container {
-  max-width: 500px;
-  margin: 0 auto;
-  padding: 20px;
-  padding-bottom: 20px;
-  margin-bottom: 20px;
-}
-
-main .secret-container {
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, monospace;
-  color: #b0b0b0;
   border: 1px solid #ffffff;
   border-radius: 3px;
-  padding: 20px;
-  padding-bottom: 20px;
   margin-bottom: 20px;
   background-color: #000000;
 }
@@ -132,7 +95,7 @@ img {
 .prev-button {
   display: inline-block;
   padding: 8px 10px;
-  background-color: #000000;
+  background-color: #464646;
   color: white;
   text-decoration: none;
   border-radius: 3px;

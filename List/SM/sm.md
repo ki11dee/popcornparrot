@@ -1,5 +1,5 @@
 ---
-layout: secret
+layout: post
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
