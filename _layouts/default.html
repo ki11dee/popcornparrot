@@ -6,7 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <title>{{ page.title | escape }}</title>
 </head>
 <body>
   <div class="main-wrapper">
@@ -19,6 +18,9 @@
           <a href="{{ '/index' | absolute_url }}">소개</a> | <a href="{{ '/List/BP/bp.html' | absolute_url }}">bp</a> | <a href="{{ '/List/Doodles/doodles.html' | absolute_url }}">낙서</a> | <a href="{{ '/List/SM/sm.html' | absolute_url }}">비밀의 공간</a> | <a href="https://ki11dee.github.io/">나</a>
         </nav>
       </div>
+      {% if page.title %}
+        <h1>{{ page.title }}</h1>
+      {% endif %}
     </header>
     
     <main>
