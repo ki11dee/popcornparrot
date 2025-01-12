@@ -1,13 +1,33 @@
 ---
 layout: post
 ---
-# BP
-- [죽음과 선 1]({{ '/List/BP/DG1/dg1.html' | relative_url }})
+
+```
+    ____  ____ 
+   / __ )/ __ \
+  / __  / /_/ /
+ / /_/ / ____/ 
+/_____/_/      
+```
+
+### 2025
+
+### 2024
 - [죽음과 선 2]
+- [나쁜 기분]({{ '/List/BP/BADM/badm.html' | relative_url }})
+
+
+### 2023
+- [필드 프로필]({{ '/List/BP/Field/field.html' | relative_url }})
+- [죽음과 선 1]({{ '/List/BP/DG1/dg1.html' | relative_url }})
 - [DOGMAIAMGOD]({{ '/List/BP/DOGM/dogma.html' | relative_url }})
 - [모순]({{ '/List/BP/Dil/dil.html' | relative_url }})
-- [나쁜 기분]({{ '/List/BP/BADM/badm.html' | relative_url }})
-- [이런!]
+- [이런!](./dang/da.html)
+- [환영](./bigp/fa.html)
+- [골콩드](./bigp/golconda.html)
+
+### 2022
+- [큰 그림](./bigp/bigp.html)
 
 ---
 

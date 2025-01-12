@@ -36,7 +36,7 @@ nav a:hover {
 body {
   margin: 0;
   font-family: 'Pretendard', 'Ariel', monospace;
-  background-color: #2a7f64;
+  background-color: #7e7e7e;
   color: #bdbdbd;
   display: flex;
   justify-content: center;
@@ -48,6 +48,11 @@ body {
 ::selection {
   background-color: #00ff00;
   color: #000000;
+}
+
+code, pre {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
 }
 
 .main-wrapper {

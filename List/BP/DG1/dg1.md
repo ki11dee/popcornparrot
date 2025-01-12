@@ -44,5 +44,5 @@ layout: page
 ![39](./39.png)
 
 <div class="pagination">
-  <a href="{{ '/List/list.html' | relative_url }}" class="prev-button">목록</a>
+  <a href="{{ '/List/BP/bp.html' | relative_url }}" class="prev-button">목록</a>
 </div>

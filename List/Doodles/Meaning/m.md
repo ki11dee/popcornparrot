@@ -12,5 +12,5 @@ layout: page
 ![m7](./m7.png)
 
 <div class="pagination">
-  <a href="/List/list.html" class="prev-button">목록</a>
+  <a href="{{ '/List/Doodles/doodles.html' | relative_url }}" class="prev-button">목록</a>
 </div>
