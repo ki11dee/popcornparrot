@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 # 지식의 지도
 

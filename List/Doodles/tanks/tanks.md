@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 # 오래된 전차들
 

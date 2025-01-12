@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 # 골콩드
 

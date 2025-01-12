@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 # 메타-메타-실재
 

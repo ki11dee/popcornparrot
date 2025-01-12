@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 # 해석되기를 기다리고 있는 의미들에 대하여
 

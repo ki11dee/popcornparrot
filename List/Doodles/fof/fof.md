@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 # Friend of Foe?
 ![fof](./230102.png)

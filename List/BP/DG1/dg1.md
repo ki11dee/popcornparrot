@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 # 죽음과 선 1
 

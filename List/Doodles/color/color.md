@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 # 우주에서 온 색채 
 ![c](./230428.png)
