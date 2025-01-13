@@ -1,13 +1,11 @@
 ---
 layout: post
 ---
+# 죽음의 회로
 
-# 고백
-![c](./241107.jpg)
+![cd](./cd.png)
 
-언제부턴가  
-순수함은 순진함으로 변모하였고  
-고백은 자살행위가 되었다
+그래도 죽기 전까진 무한 루프가 돌아갑니다.
 
 <div class="pagination">
   <a href="{{ '/List/Doodles/doodles.html' | relative_url }}" class="prev-button">목록</a>

@@ -30,6 +30,7 @@ layout: post
 - [방]({{ '/List/Doodles/2024/room/room.html' | relative_url }})
 
 ### 2023
+- [죽음의 회로](./2023/cd/cd.html)
 - [우주에서 온 색채](./2023/color/color.html)
 - [피아식별](./2023/fof/fof.html)
 
