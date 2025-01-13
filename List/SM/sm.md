@@ -31,3 +31,7 @@ layout: post
 
 ### 2018
 - [진실](./2018/truth/truth.html)
+
+<div class="pagination">
+  <a href="{{ '/List/list.html' | relative_url }}" class="prev-button">목록</a>
+</div>

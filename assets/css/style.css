@@ -61,6 +61,7 @@ code, pre {
   
 .container {
   max-width: 600px;
+  width: 100%;
   margin: 0 auto;
   padding: 30px;
   padding-bottom: 20px;
@@ -75,6 +76,7 @@ main .container {
 
 .post-container {
   max-width: 350px;
+  width: 100%;
   margin: 0 auto;
   padding: 30px;
   padding-bottom: 20px;
@@ -86,6 +88,26 @@ main .post-container {
   margin-bottom: 20px;
   background-color: #000000;
 }
+
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
+  }
+
+  .post-container {
+    padding: 20px;
+  }
+
+  .flex-layout {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .flex-layout img {
+    max-width: 100%;
+  }
+}
+
 
 img {
   max-width: 100%;
