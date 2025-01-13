@@ -22,8 +22,8 @@ layout: post
 - [DOGMAIAMGOD]({{ '/List/BP/2023/DOGM/dogma.html' | relative_url }})
 - [모순]({{ '/List/BP/2023/Dil/dil.html' | relative_url }})
 - [이런!](./2023/dang/da.html)
-- [환영](./2023/bigp/fa.html)
-- [골콩드](./2023/bigp/golconda.html)
+- [환영](./2022/bigp/fa.html)
+- [골콩드](./2022/bigp/golconda.html)
 
 ### 2022
 - [거대한 그림](./2022/bigp/bigp.html)

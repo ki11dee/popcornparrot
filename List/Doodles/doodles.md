@@ -16,7 +16,7 @@ layout: post
 ```
 
 ### 2025
-- [한 남자와 그의 영혼의 대화]
+- [한 남자와 그의 영혼의 대화](./2025/0113/duat.html)
 
 ### 2024
 - [고백]({{ '/List/Doodles/2024/conf/conf.html' | relative_url }})
@@ -25,7 +25,7 @@ layout: post
 - [탐미]({{ '/List/Doodles/2024/Beay/beaut.html' | relative_url }})
 - [3번 보면 죽는 사진]({{ '/List/Doodles/2024/3death/3d.html' | relative_url }})
 - [베이컨]({{ '/List/Doodles/2024/Bacon/bacon.html' | relative_url }})
-- [지식의 지도](./map/map.html)
+- [지식의 지도](./2024/map/map.html)
 - [메타-메타-실재]({{ '/List/Doodles/2024/meta/meta.html' | relative_url }})
 - [방]({{ '/List/Doodles/2024/room/room.html' | relative_url }})
 
