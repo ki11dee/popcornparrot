@@ -23,11 +23,16 @@ layout: post
 
 ### 2023
 - [앨런 튜링](./2023/turing/turing.html)
+- [자기 복제 문장](./2023/selfref/selfref.html)
 - [자살하는 기계](./2023/mac/mac.html)
 - [불운의 학자들](./2023/suicide/suicide.html)
 
 ### 2022
 - [어느 날의 꿈](./2022/dream/dream.html)
+- [자살: 체제에 순응하기?](./2022/suic/suic.html)
+
+### 2021
+- [슈뢰딩거의 고양이](./2021/cat/cat.html)
 
 ### 2018
 - [진실](./2018/truth/truth.html)
