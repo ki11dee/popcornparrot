@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 # 메타-메타-실재
 

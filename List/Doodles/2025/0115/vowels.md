@@ -14,3 +14,7 @@ Vowel Diagram은 모음을 혀의 위치와 입 모양에 따라 시각적으로
 [Vowel Theory](https://sail.usc.edu/~lgoldste/General_Phonetics/Vowels/Vowel_Theories.html)
 
 *A Course in Phonetics*, P.Ladefoged
+
+<div class="pagination">
+  <a href="{{ '/List/Doodles/doodles.html' | relative_url }}" class="prev-button">목록</a>
+</div>
