@@ -33,11 +33,6 @@ layout: post
 ### 2023
 - [죽음의 회로](./2023/cd/cd.html)
 - [우주에서 온 색채](./2023/color/color.html)
-- [피아식별](./2023/fof/fof.html)
-
-### 2022
-- [전차](./2022/tanks/tanks.html)
-- [복고](./2022/tanks/punk.html)
 
 
 ---

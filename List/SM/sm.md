@@ -31,9 +31,6 @@ layout: post
 - [어느 날의 꿈](./2022/dream/dream.html)
 - [자살: 체제에 순응하기?](./2022/suic/suic.html)
 
-### 2021
-- [슈뢰딩거의 고양이](./2021/cat/cat.html)
-
 ### 2018
 - [진실](./2018/truth/truth.html)
 
