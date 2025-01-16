@@ -23,7 +23,9 @@
     <header>
       <div class="container">
         <div class="header-image">
-          <img src="{{ '/assets/img/ascii-text-art.png' | relative_url }}" alt="Header Logo">
+          <a href="https://ki11dee.github.io/popcornparrot/" class="no-target">
+            <img src="{{ '/assets/img/Title.png' | relative_url }}" alt="Header Logo" class="no-border">
+          </a>
         </div>
         <nav>
           <a href="{{ '/index' | absolute_url }}">소개</a> | <a href="{{ '/List/BP/bp.html' | absolute_url }}">bp</a> | <a href="{{ '/List/Doodles/doodles.html' | absolute_url }}">낙서</a> | <a href="{{ '/List/SM/sm.html' | absolute_url }}">비밀의 공간</a> | <a href="https://ki11dee.github.io/">나</a>
@@ -41,7 +43,7 @@
     document.addEventListener('DOMContentLoaded', () => {
       const links = document.querySelectorAll('a[href]');
       links.forEach(link => {
-        if (link.hostname !== window.location.hostname) {
+        if (!link.classList.contains('no-target') && link.hostname !== window.location.hostname) {
           link.setAttribute('target', '_blank');
         }
       });
