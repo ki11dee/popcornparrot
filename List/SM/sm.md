@@ -15,6 +15,7 @@ layout: post
 ```
 
 ### 2025
+- [과학의 언어](./2025/0118/analogy.html)
 - [기원](./2025/where/where.html)
 
 ### 2024
