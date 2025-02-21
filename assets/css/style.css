@@ -36,13 +36,24 @@ nav a:hover {
 body {
   margin: 0;
   font-family: 'Pretendard', 'Ariel', monospace;
-  background-color: #639a74;
+  background-image: url("/assets/img/bpaper.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  background-attachment: scroll;
   color: #bdbdbd;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   text-align: justify;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-size: contain;
+    background-attachment: scroll;
+  }
 }
   
 ::selection {
