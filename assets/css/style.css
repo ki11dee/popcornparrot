@@ -21,17 +21,16 @@ nav a {
 nav {
   text-align: center;
   margin-top: 10px;
-  color: #949494
 }
 
 nav a {
   text-decoration: none;
-  color: #000000;
+  color: #b8b8b8;
   margin: 0 10px;
 }
 
 nav a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 body {
