@@ -9,7 +9,7 @@ a {
 }
 
 a:hover {
-  color: #910d0d;
+  color: #dc0000;
   text-decoration: none;
 }
 
@@ -21,6 +21,7 @@ nav a {
 nav {
   text-align: center;
   margin-top: 10px;
+  color: #949494
 }
 
 nav a {
