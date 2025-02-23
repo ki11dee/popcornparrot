@@ -53,6 +53,7 @@ body {
   body {
     background-size: contain;
     background-attachment: scroll;
+    background-repeat: repeat;
   }
 }
   

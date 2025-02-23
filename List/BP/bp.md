@@ -11,6 +11,7 @@ layout: post
 ```
 
 ### 2025
+- [로봇이 아닙니다](./2025/0223/bot.html)
 
 ### 2024
 - [나쁜 기분]({{ '/List/BP/2024/BADM/badm.html' | relative_url }})
