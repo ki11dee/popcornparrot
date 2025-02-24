@@ -15,6 +15,7 @@ layout: post
 ```
 
 ### 2025
+- [인간](./2025/0224/human.html)
 - [AI 담론](./2025/0119/ai.html)
 - [과학의 언어](./2025/0119/an.html)
 - [기원](./2025/where/where.html)
