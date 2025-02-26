@@ -24,7 +24,19 @@ date: 2025-02-23
   </pre>
 </div>
 
+### About me
+I'm currently physics/mathematics/CS student in university in south korea. I draw terrifying and cruel or terrific and cute things. 
 
+### What I do in this Place
+I record my artworks here. Due to my lack of time, only korean version is uploaded yet.
+- [Artwork Lists](./List/list.html)
+- [English Blog](https://ki11dee.github.io/)
+- [Commission info(En/Kor)](https://toyhou.se/ligo2)
+
+### Contact
+I'm writing as simple as I can without any errors or misunderstandings, but if you need questions or notice typo corrections, modifying contents or any rants, please feel free to DM or contact me through my website.
+
+----
 
 ### 글쓴이 소개
 대학교에서 물리학, 수학, 컴퓨터 과학을 공부하고 있습니다. 끔찍하거나 깜찍한 걸 그립니다. 바흐 음악을 좋아합니다.

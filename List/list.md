@@ -11,7 +11,7 @@ layout: post
                     /____/                          
 ```
 
-### [비밀의 공간](./SM/sm.html)
+### [Room](./SM/sm.html)
 
 ### [BP](./BP/bp.html)
 
