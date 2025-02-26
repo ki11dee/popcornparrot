@@ -14,7 +14,7 @@ layout: page
 | 알콰리즈미 (Al-Khwarizmi)| c.780 ~ c.850             | 수학                         |
 | 이븐 알하이탐 (Ibn al-Haytham)| c.965 ~ c.1040       | 광학, 수학                   |
 | 피보나치 (Leonardo Fibonacci)| c.1170 ~ c.1240       | 수학                         |
-| 니콜라우스 코페르니쿠스 (Nicolaus Copernicus)| 1473.02.19 ~ 1543.05.24 | 천문학,물리학              |
+| 코페르니쿠스 (Nicolaus Copernicus)| 1473.02.19 ~ 1543.05.24 | 천문학,물리학              |
 | 갈릴레오 갈릴레이 (Galileo Galilei)| 1564.02.15 ~ 1642.01.08 | 물리학, 천문학              |
 | 요하네스 케플러 (Johannes Kepler)| 1571.12.27 ~ 1630.11.15 | 천문학, 물리학              |
 | 르네 데카르트 (René Descartes)| 1596.03.31 ~ 1650.02.11 | 수학, 철학                   |
@@ -26,7 +26,7 @@ layout: page
 | 다니엘 베르누이 (Daniel Bernoulli)| 1700.02.08 ~ 1782.03.17 | 수학, 유체역학              |
 | 오일러 (Leonhard Euler)| 1707.04.15 ~ 1783.09.18     | 수학                         |
 | 라그랑주 (Joseph-Louis Lagrange)| 1736.01.25 ~ 1813.04.10 | 수학, 역학                  |
-| 알레스산드로 볼타 (Alessandro Volta)| 1745.02.18 ~ 1827.03.05 | 전기학, 물리학              |
+| 알레산드로 볼타 (Alessandro Volta)| 1745.02.18 ~ 1827.03.05 | 전기학, 물리학              |
 | 라플라스 (Pierre-Simon Laplace)| 1749.03.23 ~ 1827.03.05 | 수학, 천체역학              |
 | 르장드르 (Adrien-Marie Legendre)| 1752.09.18 ~ 1833.01.10 | 수학                         |
 | 벤저민 톰슨 (Count Rumford)| 1753.03.26 ~ 1814.08.21  | 열학, 물리학                 |

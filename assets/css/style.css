@@ -100,7 +100,7 @@ main .container {
   }
 
 .post-container {
-  max-width: 360px;
+  max-width: 370px;
   width: 100%;
   margin: 0 auto;
   padding: 30px;
@@ -114,12 +114,31 @@ main .post-container {
   background-color: #000000;
 }
 
+.archive-container {
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px;
+  padding-bottom: 20px;
+}
+
+main .archive-container {
+  border: 1px solid #ffffff;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  background-color: #000000;
+}
+
 @media (max-width: 768px) {
   .container {
     padding: 20px;
   }
 
   .post-container {
+    padding: 20px;
+  }
+
+  .archive-container {
     padding: 20px;
   }
 
@@ -167,4 +186,47 @@ img[alt="Header Logo"] {
   background-color: #306465;
   color: #ffffff;
   text-decoration: none;
+}
+
+.ascii-art-container {
+  display: flex;
+  overflow: hidden;
+}
+
+.ascii-art {
+  font-family: "Courier New", Courier, monospace;
+  white-space: pre;
+  display: inline-block;
+  animation: moveLeftRight 3s linear infinite alternate;
+}
+
+@keyframes moveLeftRight {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(350px);
+  }
+}
+
+@keyframes colorChange {
+  0% {
+    color: red;
+  }
+  25% {
+    color: blue;
+  }
+  50% {
+    color: green;
+  }
+  75% {
+    color: yellow;
+  }
+  100% {
+    color: red;
+  }
+}
+
+.ascii-art2 {
+  animation: colorChange 6s linear infinite;
 }
