@@ -1,0 +1,59 @@
+---
+layout: post
+date: 2025-02-23
+---
+
+<div class="ascii-art-container">
+  <pre class="ascii-art2">
+   ____                  __  _                   __    __     
+  / __ \__  _____  _____/ /_(_)___  ____  ____ _/ /_  / /_  __
+ / / / / / / / _ \/ ___/ __/ / __ \/ __ \/ __ `/ __ \/ / / / /
+/ /_/ / /_/ /  __(__  ) /_/ / /_/ / / / / /_/ / /_/ / / /_/ / 
+\___\_\__,_/\___/____/\__/_/\____/_/ /_/\__,_/_.___/_/\__, /  
+    ______                                           /____/   
+   / ____/_  ______  ____  __  __   ____ _____  ____/ /       
+  / /_  / / / / __ \/ __ \/ / / /  / __ `/ __ \/ __  /        
+ / __/ / /_/ / / / / / / / /_/ /  / /_/ / / / / /_/ /         
+/_/    \__,_/_/ /_/_/ /_/\__, /   \__,_/_/ /_/\__,_/          
+  ______               _/____/     _                          
+ /_  __/__  __________(_) __/_  __(_)___  ____ _              
+  / / / _ \/ ___/ ___/ / /_/ / / / / __ \/ __ `/              
+ / / /  __/ /  / /  / / __/ /_/ / / / / / /_/ /               
+/_/  \___/_/  /_/  /_/_/  \__, /_/_/ /_/\__, /                
+                         /____/        /____/                 
+  </pre>
+</div>
+
+### About me
+I'm currently physics/mathematics/CS student in university in south korea. I draw cruel or cute things. 
+
+### What I do in this place
+I record some of my artworks here. Due to my lack of time, only korean version is being uploaded yet.
+- [Lists](./List/list.html)
+- [English Blog](https://ki11dee.github.io/)
+- [Commission info(En/Kor)](https://toyhou.se/ligo2)
+
+### Contact
+I'm writing as simple as I can without any errors or misunderstandings, but if you need questions or notice typo corrections, modifying contents or any rants, please feel free to DM or contact me through my website.
+
+----
+
+### 글쓴이 소개
+대학교에서 물리학, 수학, 컴퓨터 과학을 공부하고 있습니다. 끔찍하거나 깜찍한 걸 그립니다. 바흐 음악을 좋아합니다.
+
+
+### 이곳의 목적
+취미인 그림과 작품을 기록하는 곳이며, 한국어로 작성되어 있습니다.
+
+- [작품 목록](./List/list.html)
+- [영문 블로그](https://ki11dee.github.io/)
+- [커미션(영어/한국어)](https://toyhou.se/ligo2)
+
+### 연락
+가능한 한 오류가 없도록 글을 작성하려 노력하고 있으나 의문점, 수정 및 지적, 기타 연락이 필요한 경우 블로그 내부의 연락처를 통해 제게 메세지를 남겨 주시면 감사드리겠습니다.
+
+
+
+
+---
+수정일: {{ page.date | date: "%Y.%m.%d" }}

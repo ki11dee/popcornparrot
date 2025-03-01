@@ -1,0 +1,232 @@
+.header-image {
+  text-align: center;
+  margin-top: 20px;
+}
+
+a {
+  color: #03c003;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #dc0000;
+  text-decoration: none;
+}
+
+nav a {
+  font-weight: bold;
+}
+
+
+nav {
+  text-align: center;
+  margin-top: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #b8b8b8;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  font-family: 'Pretendard', 'Ariel', monospace;
+  background-image: url("https://i.imgur.com/Ys0rbAo.png");
+  background-size: 100vw auto;
+  background-position: top center;
+  background-repeat: repeat-y;
+  background-attachment: scroll;
+  color: #bdbdbd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: justify;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-size: contain;
+    background-attachment: scroll;
+    background-repeat: repeat;
+  }
+}
+  
+::selection {
+  background-color: #00ff00;
+  color: #000000;
+}
+
+code, pre {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+}
+
+@media (max-width: 768px) {
+  pre, code {
+    font-size: 0.6rem;
+  }
+}
+
+@media (max-width: 480px) {
+  pre, code {
+    font-size: 0.3rem;
+  }
+}
+
+
+.main-wrapper {
+  width: 100%;
+}
+  
+.container {
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px;
+  padding-bottom: 20px;
+}
+
+main .container {
+  border: 1px solid #ffffff;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  background-color: #000000;
+  }
+
+.post-container {
+  max-width: 370px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px;
+  padding-bottom: 20px;
+}
+
+main .post-container {
+  border: 1px solid #ffffff;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  background-color: #000000;
+}
+
+.archive-container {
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px;
+  padding-bottom: 20px;
+}
+
+main .archive-container {
+  border: 1px solid #ffffff;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  background-color: #000000;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
+  }
+
+  .post-container {
+    padding: 20px;
+  }
+
+  .archive-container {
+    padding: 20px;
+  }
+
+  .flex-layout {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .flex-layout img {
+    max-width: 100%;
+  }
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ffffff;
+  border-radius: 3px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+img[alt="Header Logo"] {
+  border: none;
+  padding: 0;
+}
+
+.pagination {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.prev-button {
+  display: inline-block;
+  padding: 8px 10px;
+  background-color: #464646;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
+.prev-button:hover {
+  background-color: #306465;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.ascii-art-container {
+  display: flex;
+  overflow: hidden;
+}
+
+.ascii-art {
+  font-family: "Courier New", Courier, monospace;
+  white-space: pre;
+  display: inline-block;
+  animation: moveLeftRight 3s linear infinite alternate;
+}
+
+@keyframes moveLeftRight {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(350px);
+  }
+}
+
+@keyframes colorChange {
+  0% {
+    color: red;
+  }
+  25% {
+    color: blue;
+  }
+  50% {
+    color: green;
+  }
+  75% {
+    color: yellow;
+  }
+  100% {
+    color: red;
+  }
+}
+
+.ascii-art2 {
+  animation: colorChange 6s linear infinite;
+}
