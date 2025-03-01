@@ -17,25 +17,6 @@ date: 2025-02-26
   </pre>
 </div>
 
-### About This Project
-I draw portraits or simple comics about various scholars in history. 
-
-- [People Lists](./List/Portrait/portrait.html)
-
-### I choose if they
-- are respectable
-- made a mark on the field or won the prize
-- are my personal favorites
-- recommended by my friends or acquaintances
-
-### I won't choose if they
-- are having/had/had have been a moral issue at state
-
-### Other info
-I do commissions for commercial perpose. Please DM me through [website homepage](https://ki11dee.github.io/popcornparrot) or my email sfz00@naver.com!
-
-----
-
 ### 프로젝트 소개
 학자들의 초상화나 만화를 제 마음대로 그립니다.  
 
