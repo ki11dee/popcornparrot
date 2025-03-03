@@ -25,6 +25,7 @@ I draw portraits or simple comics about various scholars in history.
 ### I choose if they
 - are respectable
 - made a mark on the field or won the prize
+- passed away
 - are my personal favorites
 - recommended by my friends or acquaintances
 
