@@ -2,13 +2,15 @@
 layout: post
 ---
 
-```
+<div class="ascii-art-container">
+  <pre class="ascii-art2">
     ____  ____ 
    / __ )/ __ \
   / __  / /_/ /
  / /_/ / ____/ 
 /_____/_/      
-```
+  </pre>
+</div>
 
 ### 2025
 - [로봇이 아닙니다](./2025/0223/bot.html)

@@ -1,6 +1,6 @@
 ---
 layout: archive
-date: 2025-02-26
+date: 2025-03-10
 ---
 
 <div class="ascii-art-container">
@@ -32,9 +32,8 @@ date: 2025-02-26
 ### 그리지 않는 것
 - 도의적으로 문제가 있는 학자
 
-### 그외
-커미션/외주를 원하시는 경우 [블로그 홈](https://ki11dee.github.io/popcornparrot)의 개인 연락처나 DM 또는 이메일 sfz00@naver.com을 통해 문의주세요!
 
+(공사중)
 
 ---
 수정일: {{ page.date | date: "%Y.%m.%d" }}

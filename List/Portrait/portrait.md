@@ -56,7 +56,7 @@ layout: archive
 오귀스탱루이 코시 (Augustin-Louis Cauchy, 1789~1857)  
 게오르크 옴 (Georg Ohm, 1789~1854)  
 아우구스투스 뫼비우스 (August Mobius, 1790~1868)  
-찰스 배배지 (Charles Babbage, 1791~1871)  
+찰스 배비지 (Charles Babbage, 1791~1871)  
 가스파르귀스타브 코리올리 (Gaspard-Gustave Coriolis, 1792~1843)  
 사디 카르노 (Sadi Carnot, 1796~1832)  
 마이클 패러데이 (Michael Faraday, 1791~1867)  
@@ -111,7 +111,7 @@ layout: archive
 펠릭스 하우스도르프 (Felix Hausdorff, 1868~1942)  
 아르놀트 조머펠트 (Arnold Sommerfeld, 1868~1951)  
 
-## Late 19C
+### Late 19C
 어니스트 러더퍼드 (Ernest Rutherford, 1871~1937)  
 버트런드 러셀 (Bertrand Russell, 1872~1970)  
 카를 슈바르츠실트 (Karl Schwarzschild, 1873~1916)  
@@ -147,7 +147,7 @@ layout: archive
 에토레 마요라나 (Ettore Majorana, 1906~1938)  
 마리아 괴페르트마이어 (Maria Goeppert Mayer, 1906~1972)  
 윌러드 밴 오먼 콰인 (Wilard Van Orman Quine, 1908~2000)  
-앨런 튜링 (Alan Turing, 1912~1954)  
+[앨런 튜링 (Alan Turing, 1912~1954)](./20c/12turing/p_turing.html)  
 에르되시 팔 (Erdos Pal, 1913~1996)  
 클로드 섀넌 (Claude Shannon, 1916~2001)  
 데이비드 봄 (David Bohm, 1917~1992)  
