@@ -3,6 +3,7 @@ layout: archive
 ---
 ## 학자 목록
 
+### ~16C
 유클리드 (Euclid, 435BC~365BC)  
 플라톤 (Plato, 428BC~348BC)  
 아르키메데스 (Archimedes, 287BC~212BC)  
@@ -16,6 +17,8 @@ layout: archive
 갈릴레오 갈릴레이 (Galileo Galilei, 1564~1642)  
 요하네스 케플러 (Johannes Kepler, 1571~1630)  
 르네 데카르트 (René Descartes, 1596~1650)  
+
+### 17C
 피에르 드 페르마 (Pierre de Fermat, 1607~1665)  
 페르마 (Pierre de Fermat, 1607~1665)  
 에반젤리스타 토리첼리 (Evangelista Torricelli, 1608~1647)  
@@ -26,6 +29,8 @@ layout: archive
 고트프리트 빌헬름 라이프니츠 (Gottfried Wilhelm Leibniz, 1646~1716)  
 베르누이 가문 (Bernoulli family)  
 브룩 테일러 (Brook Taylor, 1685~1731)  
+
+### 18C
 벤저민 프랭클린 (Benjamin Franklin, 1706~1790)  
 레온하르트 오일러 (Leonhard Euler, 1707~1783)  
 장바티스트 르 롱 달랑베르 (Jean-Baptiste le Rond d'Alembert, 1717~1783)  
@@ -56,6 +61,8 @@ layout: archive
 사디 카르노 (Sadi Carnot, 1796~1832)  
 마이클 패러데이 (Michael Faraday, 1791~1867)  
 조지프 헨리 (Joseph Henry, 1797~1829)  
+
+### Early 19C
 아벨 (Niels Henrik Abel, 1802~1829)  
 페터 구스타프 르죈 디리클레 (Johann Peter Gustav Lejeune Dirichlet, 1805~1859)  
 해밀턴 (William Rowan Hamilton, 1805~1865)  
@@ -79,6 +86,8 @@ layout: archive
 드미트리 멘델레예프 (Dmitri Mendeleev, 1834~1907)  
 에른스트 마흐 (Ernst Mach, 1838~1916)  
 조시아 윌러드 깁스 (Josiah Willard Gibbs, 1839~1803)  
+
+### Mid 19C
 오스본 레이놀즈 (Osborne Reynolds, 1842~1912)  
 소푸스 리 (Sophus Lie, 1842~1899)  
 루트비히 볼츠만 (Ludwig Boltzmann, 1844~1906)  
@@ -101,6 +110,8 @@ layout: archive
 헤르만 민코프스키 (Hermann Minkowski, 1864~1909)  
 펠릭스 하우스도르프 (Felix Hausdorff, 1868~1942)  
 아르놀트 조머펠트 (Arnold Sommerfeld, 1868~1951)  
+
+## Late 19C
 어니스트 러더퍼드 (Ernest Rutherford, 1871~1937)  
 버트런드 러셀 (Bertrand Russell, 1872~1970)  
 카를 슈바르츠실트 (Karl Schwarzschild, 1873~1916)  
@@ -123,6 +134,8 @@ layout: archive
 한스 크라머스 (Hans Kramers, 1894~1952)  
 알렉산드루 프로카 (Alexandru Proca, 1897~1955)  
 파벨 우리손 (Pavel Urysohn, 1898~1924)  
+
+### 20C~
 볼프강 파울리 (Wolfgang Pauli, 1900~1958)  
 베르너 하이젠베르크 (Werner Heisenberg, 1901~1976)  
 엔리코 페르미 (Enrico Fermi, 1901~1954)  
