@@ -18,6 +18,7 @@ layout: post
 </div>
 
 ### 2025
+- [붉은 호수](./2025/0316/pond.html)
 - [드리머](./2025/0303/dreamer.html)
 - [개소리](./2025/0227/bull.html)
 - [이분법](./2025/0224/dichotomy.html)
