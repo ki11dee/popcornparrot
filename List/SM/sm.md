@@ -23,6 +23,7 @@ layout: post
 - [기원](./2025/where/where.html)
 
 ### 2024
+- [쌍대 공간](./2024/dual/dual.md)
 - [지혜의 집](./2024/how/how.html)
 - [그것](./2024/thing/thing.html)
 
