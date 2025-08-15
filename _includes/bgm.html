@@ -1,0 +1,48 @@
+<div id="bgm-shell" data-turbo-permanent
+     style="position:fixed;right:1rem;bottom:1rem;z-index:9999">
+  <audio id="bgm" preload="auto" loop playsinline
+  src="{{ '/assets/audio/bgm.mp3' | relative_url }}"></audio>
+  <button id="bgm-toggle" aria-pressed="false" aria-label="Toggle BGM">▶︎ PLAY ME!!
+  </button>
+</div>
+
+<script>
+(function () {
+  if (window.__bgm_init__) return;
+  window.__bgm_init__ = true;
+
+  const audio = document.getElementById('bgm');
+  const btn   = document.getElementById('bgm-toggle');
+  const STATE = 'bgm.playing';
+  const TIME  = 'bgm.time';
+
+  function paint() {
+    const playing = !audio.paused;
+    btn.textContent = playing ? '⏸ PLAY ME!!' : '▶︎ PLAY ME!!';
+    btn.setAttribute('aria-pressed', String(playing));
+  }
+
+  btn.addEventListener('click', async () => {
+    if (audio.paused) {
+      audio.muted = false;
+      audio.volume = 1.0;
+      try { await audio.play(); localStorage.setItem(STATE, '1'); } catch(_) {}
+    } else {
+      audio.pause();
+      localStorage.removeItem(STATE);
+    }
+    paint();
+  });
+
+  document.addEventListener('turbo:load', paint);
+
+  setInterval(() => {
+    if (!audio.paused) localStorage.setItem(TIME, Math.floor(audio.currentTime));
+  }, 2000);
+  document.addEventListener('DOMContentLoaded', () => {
+    const t = Number(localStorage.getItem(TIME) || 0);
+    if (!Number.isNaN(t) && t > 0) audio.currentTime = t;
+    paint();
+  });
+})();
+</script>
