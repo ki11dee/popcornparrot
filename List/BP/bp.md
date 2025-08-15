@@ -22,7 +22,7 @@ layout: post
 - [필드 프로필](./2023/Field/field.html)
 - [죽음과 선](./2023/DG1/dg1.html)
 - [DOGMAIAMGOD](./2023/DOGM/dogma.html)
-- [모순]({./2023/Dil/dil.html)
+- [모순](./2023/Dil/dil.html)
 - [이런!](./2023/dang/da.html)
 - [환영](./2022/bigp/fa.html)
 - [골콩드](./2022/bigp/golconda.html)

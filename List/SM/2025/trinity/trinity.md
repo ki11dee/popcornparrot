@@ -18,6 +18,9 @@ layout: default
 ![t](tw.png)
 \: [The Rosseta stone](https://ncatlab.org/nlab/show/computational+trilogy)(Differential cohomology in a cohesive (infinity,1)-topos)
 
+![sv](sv.png)
+\: The semantic view of scientific theory
+
 ![s](geb.jpg)  
 \: Strange loop(Bach's riddle canon, Escher's arts, Godel's incompleteness theorems) by Douglas Hofstadter
 
