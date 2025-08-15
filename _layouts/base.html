@@ -38,14 +38,40 @@
       </div>
     </main>
   <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const links = document.querySelectorAll('a[href]');
-      links.forEach(link => {
-        if (!link.classList.contains('no-target') && link.hostname !== window.location.hostname) {
-          link.setAttribute('target', '_blank');
+  (function () {
+    function wireLinks(root=document) {
+      const here = location.origin;
+      const baseurl = "{{ site.baseurl | default: '' }}";
+
+      document.querySelectorAll('a[href]').forEach(a => {
+        if (a.classList.contains('no-target')) return;
+        if (a.dataset.newTab === 'true') { a.target = '_blank'; a.rel = 'noopener'; return; }
+        if (a.dataset.sameTab === 'true') { a.removeAttribute('target'); a.removeAttribute('rel'); return; }
+
+        const raw = a.getAttribute('href');
+        if (!raw || raw.startsWith('#') || /^(mailto:|tel:|javascript:)/i.test(raw)) return;
+
+        let url;
+        try { url = new URL(raw, location.href); } catch { return; }
+
+        const isInternalOrigin = (url.origin === here);
+        const inBase = (!baseurl || baseurl === '/')
+          ? true
+          : (url.pathname === baseurl || url.pathname.startsWith(baseurl + '/'));
+        const isInternal = isInternalOrigin && inBase;
+
+        if (isInternal) {
+          if ((a.target || '').toLowerCase() === '_blank') a.removeAttribute('target');
+          a.removeAttribute('rel');
+        } else {
+          a.target = '_blank';
+          a.rel = (a.rel || '').includes('noopener') ? a.rel : ((a.rel ? a.rel + ' ' : '') + 'noopener');
         }
       });
-    });
+    }
+    document.addEventListener('DOMContentLoaded', wireLinks);
+    document.addEventListener('turbo:load', wireLinks);
+  })();
   </script>
   {% include bgm.html %}
 </body>
