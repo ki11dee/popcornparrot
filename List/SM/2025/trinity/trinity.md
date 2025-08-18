@@ -18,6 +18,9 @@ layout: default
 ![t](tw.png)
 \: [The Rosseta stone](https://ncatlab.org/nlab/show/computational+trilogy)(Differential cohomology in a cohesive (infinity,1)-topos)
 
+![e](e.png)
+\: [Relations between the spaces of states of the world, the microscopic theory, and the macroscopic theory](https://arxiv.org/pdf/2410.15468)
+
 ![sv](sv.png)
 \: The semantic view of scientific theory
 
