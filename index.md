@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-08-15
+date: 2025-08-20
 ---
 
 <div class="ascii-art-container">
@@ -24,15 +24,12 @@ date: 2025-08-15
   </pre>
 </div>
 
-대학교에서 물리학, 수학, 컴퓨터 과학을 공부하고 있습니다. 끔찍하거나 깜찍한 걸 그립니다. 바흐 음악을 좋아합니다.
-이곳은 제 취미인 그림과 작품을 기록하는 곳입니다.
+I'm currently physics/mathematics/CS student and hobbyist in university in south korea. I draw cruel or cute things. I like Bach music. I record some of my artworks here. Due to my lack of time, only korean version is being uploaded yet.
+- [Lists](./List/list.html)
+- [English Blog](https://ki11dee.github.io/)
 
-- [작품 목록](./List/list.html)
-- [영문 블로그](https://ki11dee.github.io/)
+### Contact
+I'm writing as simple as I can without any errors or misunderstandings, but if you need questions or notice typo corrections, modifying contents or any rants, please feel free to DM or contact me through my website or X([@vkqzhs0_0](https://x.com/vkqzhs0_0)).
 
-### 연락
-가능한 한 오류가 없도록 글을 작성하려 노력하고 있으나 의문점, 수정 및 지적, 기타 연락이 필요한 경우 깃허브 블로그 내부의 연락처나 X([@vkqzhs0_0](https://x.com/vkqzhs0_0))를 통해 제게 메세지를 남겨 주시면 감사드리겠습니다.
-
-
----
-수정일: {{ page.date | date: "%Y.%m.%d" }}
+----
+edit: {{ page.date | date: "%Y.%m.%d" }}

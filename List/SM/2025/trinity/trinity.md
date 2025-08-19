@@ -8,7 +8,6 @@ layout: default
 ![ct](ct.png)
 \: [New Dialogues in theoretical physics](https://public.websites.umich.edu/~mctp/SciPrgPgs/events/2012/rgflows/talks/Myers-intro12.pdf)
 
-
 ![h](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Shield-Trinity-Scutum-Fidei-English.svg/1200px-Shield-Trinity-Scutum-Fidei-English.svg.png)  
 \: The trinity (christian trinitarianism)
 
@@ -30,6 +29,8 @@ layout: default
 ![t](im.jpg)
 \: Three functions of images by Scott Mccloud
 
+![j](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfi7tzmaI65iI5aUYIazc252wCTjtDcGyTpw&s)
+\: Javascript trinity
 
 ![c](cf.png)
 \: [Circle of fifths](https://en.wikipedia.org/wiki/Circle_of_fifths)
