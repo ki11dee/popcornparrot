@@ -29,7 +29,6 @@ layout: post
 - [한 남자와 그의 영혼의 대화](./2025/0113/duat.html)
 
 ### 2024
-- [고백](./2024/conf/conf.html)
 - [농담](./2024/Jok/jok.html)
 - [Decode Me!](./2024/Meaning/m.html)
 - [3번 보면 죽는 사진](./2024/3death/3d.html)
