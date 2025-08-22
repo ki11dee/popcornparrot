@@ -29,7 +29,7 @@ I'm currently physics/mathematics/CS student and hobbyist in university in south
 - [English Blog](https://ki11dee.github.io/)
 
 ### Contact
-I'm writing as simple as I can without any errors or misunderstandings, but if you need questions or notice typo corrections, modifying contents or any rants, please feel free to DM or contact me through my website or X([@vkqzhs0_0](https://x.com/vkqzhs0_0)).
+I'm writing as simple as I can without any errors or misunderstandings, but if you need questions or notice typo corrections, modifying contents or any rants, please feel free to DM or contact me through my website.
 
 ----
 edit: {{ page.date | date: "%Y.%m.%d" }}
