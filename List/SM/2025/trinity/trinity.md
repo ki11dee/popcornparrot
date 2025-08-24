@@ -17,6 +17,9 @@ layout: default
 ![t](tw.png)
 \: [The Rosseta stone](https://ncatlab.org/nlab/show/computational+trilogy)(Differential cohomology in a cohesive (infinity,1)-topos)
 
+![lg](lp.png)
+\: [The logical patterns of a gauge theory](https://doi.org/10.1119/1.15984)
+
 ![e](e.png)
 \: [Relations between the spaces of states of the world, the microscopic theory, and the macroscopic theory](https://arxiv.org/pdf/2410.15468)
 
@@ -25,6 +28,9 @@ layout: default
 
 ![s](geb.jpg)  
 \: Strange loop(Bach's riddle canon, Escher's arts, Godel's incompleteness theorems) by Douglas Hofstadter
+
+![p](p.png)
+\: The Platonic mathematical, the physical, and the mental—and the three profound mysteries in the connections between them by Roger Penrose
 
 ![t](im.jpg)
 \: Three functions of images by Scott Mccloud
