@@ -13,6 +13,7 @@ layout: post
 </div>
 
 ### 2026
+- [고통의 원인](./2026/suffering/suffer.html)
 - [자유란 무엇인가](./2026/free/free.html)
 
 ### 2025
