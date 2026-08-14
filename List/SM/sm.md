@@ -17,9 +17,12 @@ layout: post
 </div>
 
 ### 2026
+- [n-Fold Way](./2026/0427/nfold.html)
+- [AI는 세계를 coarse-graining하는 재규격화 체계이다](https://knightcolumbia.org/content/ai-as-social-technology?utm_source=substack&utm_medium=email)
 - [태초에 ___가 있었다](./2026/let/let.html)
 
 ### 2025
+- [Decimation에 대한 생각](./2025/1224/decimation.html)
 - [기묘한 삼각관계](./2025/trinity/trinity.html)
 - [모욕](./2025/0809/0809.html)
 - [종교](./2025/0808/0808.html)
