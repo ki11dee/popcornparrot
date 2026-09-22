@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-04-12
+date: 2026-09-22
 ---
 
 <div class="ascii-art-container">
@@ -26,11 +26,11 @@ date: 2026-04-12
 
 I'm currently physics/mathematics student and hobbyist in university in south korea. I draw cruel and cute things. I like Bach music. I record some of my artworks here. Due to my lack of time, only korean version is being uploaded yet.
 - [Lists](./List/list.html)
-- [English Blog](https://ki11dee.github.io/)
+- [Other Blog (more text)](https://ki11dee.github.io/)
 - [Other Art Stuffs](https://kil1dee.tumblr.com/)
 
 ### Contact
-I'm writing as simple as I can without any errors or misunderstandings, but if you need questions or notice typo corrections, modifying contents or any rants, please feel free to DM or contact me through my website.
+I'm writing as simple as I can without any errors or misunderstandings, but if you need questions or notice typo corrections, modifying contents or any rants, please feel free to [DM on twitter](https://x.com/uvcomplete) or contact me through [uvcomplete@gmail.com](mailto:uvcomplete@gmail.com).
 
 ----
 edit: {{ page.date | date: "%Y.%m.%d" }}

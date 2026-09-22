@@ -14,7 +14,7 @@ layout: post
 
 ### 2026
 - [고통의 원인](./2026/suffering/suffer.html)
-- [자유란 무엇인가](./2026/free/free.html)
+- [자유란 무엇인가](./2026/free/free_.html)
 
 ### 2025
 - [로봇이 아닙니다](./2025/0223/bot.html)

@@ -18,7 +18,7 @@ layout: post
 
 ### 2026
 - [n-Fold Way](./2026/0427/nfold.html)
-- [AI는 세계를 coarse-graining하는 재규격화 체계이다](https://knightcolumbia.org/content/ai-as-social-technology?utm_source=substack&utm_medium=email)
+- [AI는 세계를 coarse-graining하는 재규격화 체계이다](./2026/0512/coarse.html)
 - [태초에 ___가 있었다](./2026/let/let.html)
 
 ### 2025
@@ -30,6 +30,7 @@ layout: post
 - [현상과 이론과 실재](./2025/0802/0802.html)
 - [개소리](./2025/0227/bull.html)
 - [AI와 이야기](./2025/0623/0623.html)
+- [어느 날의 꿈 2](./2025/0323/dream250323.html)
 - [인간](./2025/0224/human.html)
 - [AI 담론](./2025/0119/ai.html)
 - [과학의 언어](./2025/0119/an.html)
