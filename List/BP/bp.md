@@ -24,7 +24,8 @@ layout: post
 
 ### 2023
 - [필드 프로필](./2023/Field/field.html)
-- [죽음과 선](./2023/DG1/dg1.html)
+- [선 2](./2023/DG2/dg2.html)
+- [선 1](./2023/DG1/dg1.html)
 - [DOGMAIAMGOD](./2023/DOGM/dogma.html)
 - [모순](./2023/Dil/dil.html)
 - [이런!](./2023/dang/da.html)
